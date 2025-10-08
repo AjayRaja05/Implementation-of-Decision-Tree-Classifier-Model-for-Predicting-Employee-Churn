@@ -21,8 +21,8 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 ## Program:
 ```
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: 
-RegisterNumber:  
+Developed by: AJAYRAJA RATHINAM T
+RegisterNumber:  212224240006
 ```
 ```
 import pandas as pd
